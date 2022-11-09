@@ -1,4 +1,4 @@
-Applying Basic CSS: Utilities
+
 /* UTILITIES */
 * {
  margin: 0;
@@ -115,3 +115,40 @@ input[type=checkbox]{
    .dropdown li:hover {
     background-color: #4c9e9e;
    } 
+
+   .writeup {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: white ;
+    color: black;
+   }
+
+.rounded_rect{
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-radius: 100px;
+    border: 1px solid #1d1d28;
+    box-shadow: 3px 3px 0 #1d1d28;
+    background-color: #fff;    
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+.img {
+        border: 1px solid #ddd;
+        width: 400px;
+        height: 400px;
+    }
+}

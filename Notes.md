@@ -10,3 +10,9 @@ Just clone it forget funtionality for now
 Name+Logo + Nav bar + Write up
 
 (cloning webpage's html and css code)
+
+
+Taking images as user input
+      <form>
+         <input type = "file" name = "upload" accept = "image/*" />
+      </form>
