@@ -16,3 +16,9 @@ Taking images as user input
       <form>
          <input type = "file" name = "upload" accept = "image/*" />
       </form>
+
+Creating and linking multiple pages
+
+In logina nd sign up use popup instead of an separate html page
+
+Create signup and login up
