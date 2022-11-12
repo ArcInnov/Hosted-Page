@@ -32,3 +32,15 @@ Add 2 section pages in 15 minutes
 2 text
 1 immage  + 4-5 images - images donloaded
 Resixing images
+
+
+Try to complete the pricing page in an hour
+Heading
+Table
+Section 1 
+Section 2
+
+Work on section1
+2 texts lines
+1 input text +1 button
+A backgroud in less than black colour

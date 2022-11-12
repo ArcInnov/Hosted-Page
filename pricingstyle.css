@@ -120,3 +120,42 @@
    h1{
     font-size: 1.5cm;
   }
+
+  .uptodate{
+    background-color: rgba(0, 0, 0, 0.614);
+    position: relative;
+    text-align: center;
+  }
+  
+  #textuptd{
+    font-size: 24px;
+    color: white;
+  }
+  #textuptd1{
+    font-size: 16px;
+    color: white;
+  }
+  
+  #emaillab{
+    color:white;
+  }
+  
+  #uptdbtn{
+    color: white;
+    background-color: blue;
+  }
+
+  .links{
+    position: relative;
+    background: rgb(62, 58, 58);
+    color: rgb(246, 235, 235);
+
+  }
+  
+  .llc{
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
+    background-color: rgb(29, 27, 27);
+    color: rgb(246, 235, 235);
+  }
