@@ -145,33 +145,7 @@
     background-color: blue;
   }
 
-  .links{
-    position: relative;
-    background: rgb(62, 58, 58);
-    color: rgb(246, 235, 235);
-    height: 200px;
-    width: 100%;
-
-  }
   
-  .llc{
-    position: absolute;
-    text-align: center;
-    height: 100px;
-    width: 100%;
-    background-color: rgb(29, 27, 27);
-    color:#fff;
-
-  }
-
-  .linktext{
-    font-size: 12px;
-    color: white;
-    word-spacing: 10px;
-    letter-spacing: 2px;
-    text-align: right;
-  }
-
   a{
     color: white;
   }
@@ -204,4 +178,59 @@
   }
   #table3 td, #table3 th {
     border: 1px solid #ddd;
+  }
+
+  .tables{
+    flex: 33.33%;
+    padding: 5px;
+    justify-content: center;
+  }
+
+  .table1 {
+    float: left;
+    display: flex;
+    padding-left: 200px;
+    padding-right: 10px;
+    border-radius: 2px;
+  }
+
+  .table2 {
+    float: left;
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .table3 {
+    display: flex;
+    padding-left: 10px;
+    padding-right: 30px;
+  }
+
+
+  .links{
+    position: relative;
+    background: rgb(62, 58, 58);
+    color: rgb(246, 235, 235);
+    height: 200px;
+    width: 100%;
+
+  }
+  
+  .llc{
+    position: absolute;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(29, 27, 27);
+    color:#fff;
+
+  }
+
+  .linktext{
+    font-size: 12px;
+    color: white;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    text-align: right;
   }
