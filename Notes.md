@@ -44,3 +44,12 @@ Work on section1
 2 texts lines
 1 input text +1 button
 A backgroud in less than black colour
+
+
+So start working 
+1. insert table
+2. resize div elements
+3. position div elements
+
+To do finish the page
+Realign   
